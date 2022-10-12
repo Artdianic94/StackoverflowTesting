@@ -1,6 +1,6 @@
 # StackoverflowTesting
 ## Description
-An application that sends a request to stackoverflow to receive the last 10 responses on the site
+An application that sends a request to stackoverflow to receive the last 10 responses on the website
 and checks that the correct data is returned in the response.
 LastTenAnswersTest checks that the following conditions are met:
 1) status code,
